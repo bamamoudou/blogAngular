@@ -1,6 +1,6 @@
-# Angular Blog - OC Project
+# Blog Angular - OC Project
 
-[OpenClassrooms exercise link](https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/exercises/2353)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.2.
 
